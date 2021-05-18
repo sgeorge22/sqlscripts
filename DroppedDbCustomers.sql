@@ -1,0 +1,4 @@
+USE Master;
+GO
+DROP DATABASE Customer;
+GO
